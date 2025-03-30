@@ -1,7 +1,8 @@
 # EmotiCare: AI-Powered Emotional Support Platform
 
 ![EmotiCare Logo](public/favicon.svg) Website Link : https://emoti-caree.vercel.app/  
-Demo Video Link : https://drive.google.com/file/d/1HeRccK6ASqye9yutkLYzvxT7WTqM0Brq/view?usp=sharing
+Demo Video Link : https://drive.google.com/file/d/1HeRccK6ASqye9yutkLYzvxT7WTqM0Brq/view?usp=sharing  
+Installation Link : https://drive.google.com/file/d/1zBtwRv0MS0ua3o7c1e-vew_KCOQKqYaq/view?usp=sharing
 
 ## Table of Contents
 
