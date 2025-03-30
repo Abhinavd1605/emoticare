@@ -29,13 +29,6 @@
 - [Real-World Impact](#real-world-impact)
 - [Business Model & Sustainability](#business-model--sustainability)
 - [Future Developments](#future-developments)
-- [Security and Privacy](#security-and-privacy)
-- [Accessibility](#accessibility)
-- [Ethical Framework](#ethical-framework)
-- [Team](#team)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -407,7 +400,7 @@ EmotiCare uses several external APIs that require authentication. All API keys a
 1. Clone the repository and install dependencies:
    ```bash
    # Clone the repository
-   git clone https://github.com/yourusername/emoticare.git
+   git clone https://github.com/abhinavd2005/emoticare.git
    cd emoticare
 
    # Install dependencies
@@ -476,36 +469,6 @@ Regular use of the platform's tools for emotional regulation, stress management,
 ### 7. Reducing Stigma
 The private, digital nature of EmotiCare reduces stigma barriers, potentially reaching users who might be reluctant to seek traditional mental health support.
 
-## Business Model & Sustainability
-
-EmotiCare is built on a sustainable business model that balances accessibility with operational viability:
-
-### 1. Tiered Subscription Model
-- **Free Tier**: Basic emotional support chat, limited breathing exercises, and emergency resources
-- **Premium Individual**: Full feature access with unlimited usage, personalized insights, and data export
-- **Family Plan**: Multi-user accounts with shared admin features and family analytics
-- **Enterprise**: Customized deployments for healthcare providers, employers, and educational institutions
-
-### 2. API & Integration Licensing
-- Integration capabilities for healthcare systems and EHRs
-- API access for complementary wellness platforms
-- Licensed content for third-party mental health applications
-
-### 3. Research Partnerships
-- Anonymized data insights for academic and clinical research
-- Collaborative studies on digital mental health interventions
-- Testing ground for novel therapeutic approaches
-
-### 4. Strategic Partnerships
-- Insurance provider partnerships for covered access
-- Employer wellness program integration
-- Educational institution licensing for student support
-
-### 5. Social Impact Commitment
-- Subsidized access for underserved communities
-- Disaster response free access program
-- Nonprofit organization discount program
-
 ## Future Developments
 
 Our roadmap for EmotiCare's evolution includes:
@@ -544,91 +507,3 @@ Our roadmap for EmotiCare's evolution includes:
 - **Community Contributions**: Curated user-generated content for coping strategies
 - **Research Platform**: Enhanced capabilities for ethical research on digital mental health
 - **Specialized Versions**: Adaptations for specific contexts (healthcare, education, workplace)
-
-## Security and Privacy
-
-Security and privacy are foundational to EmotiCare's design and implementation:
-
-- **End-to-end encryption** for all sensitive user data
-- **Zero-knowledge architecture** for conversation content
-- **Transparent data practices** with clear user controls
-- **GDPR, HIPAA, and CCPA compliance** built into the core design
-- **Regular security audits** and penetration testing
-- **Privacy-preserving analytics** that maintain user anonymity
-- **Local processing** of sensitive data where possible
-- **Minimal data collection** philosophy throughout
-- **User data portability** and deletion rights
-- **Age-appropriate design** following children's privacy regulations
-
-## Accessibility
-
-EmotiCare is committed to universal accessibility:
-
-- **WCAG 2.1 AA compliance** throughout the application
-- **Screen reader optimization** with proper ARIA attributes
-- **Keyboard navigation** for all features
-- **Color contrast ratios** meeting accessibility standards
-- **Multiple interaction modalities** to accommodate different abilities
-- **Adjustable text sizing** and spacing
-- **Reduced motion options** for those with sensitivities
-- **Simple language alternatives** for complex content
-- **Voice control capabilities** for hands-free operation
-- **Offline functionality** for limited connectivity scenarios
-
-## Ethical Framework
-
-EmotiCare is designed with the following ethical principles:
-
-- **Transparency**: Clear disclosure of AI capabilities and limitations
-- **Complementary Role**: Designed to support, not replace, human connection and professional care
-- **Crisis Responsibility**: Appropriate escalation protocols for safety concerns
-- **Inclusivity**: Design that respects diverse backgrounds, cultures, and perspectives
-- **Honesty**: No misrepresentation of AI as human interaction
-- **Evidence-Based**: Features grounded in research and best practices
-- **Non-Exploitative**: Business model that prioritizes user wellbeing over engagement metrics
-- **Environmental Consideration**: Efficient code and infrastructure to minimize environmental impact
-- **Algorithmic Fairness**: Regular testing for bias in AI responses across different user groups
-- **Continuous Improvement**: Ongoing evaluation and refinement of ethical practices
-
-## Team
-
-EmotiCare is developed by a multidisciplinary team of technologists, mental health professionals, and user experience designers, bringing together expertise in:
-
-- Frontend and mobile development
-- AI and machine learning engineering
-- Clinical psychology and therapy
-- User experience and accessibility design
-- Data privacy and security
-- Behavioral science research
-- Global mental health
-- Ethical AI development
-
-## Contributing
-
-We welcome contributions to EmotiCare! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
-
-- Code of conduct
-- Development setup
-- Coding standards
-- Pull request process
-- Issue reporting
-- Feature suggestions
-- Documentation improvements
-- Translation contributions
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or support, please contact us at [support@emoticare.com](mailto:support@emoticare.com)
-
-For partnership inquiries: [partners@emoticare.com](mailto:partners@emoticare.com)
-
-For press: [media@emoticare.com](mailto:media@emoticare.com)
-
-Connect with us on social media:
-- Twitter: [@EmotiCareApp](https://twitter.com/EmotiCareApp)
-- LinkedIn: [EmotiCare](https://linkedin.com/company/emoticare)
-- Instagram: [@emoticare_app](https://instagram.com/emoticare_app) 
