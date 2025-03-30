@@ -30,7 +30,7 @@ Demo Video Link : https://drive.google.com/file/d/1HeRccK6ASqye9yutkLYzvxT7WTqM0
 - [Real-World Impact](#real-world-impact)
 - [Business Model & Sustainability](#business-model--sustainability)
 - [Future Developments](#future-developments)
-- [Team](#Team)
+- [Team](#Team Details)
 
 ## Introduction
 
