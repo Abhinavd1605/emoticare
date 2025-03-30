@@ -8,6 +8,7 @@ Installation Demo Link : https://drive.google.com/file/d/1zBtwRv0MS0ua3o7c1e-vew
 
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
+- [Team Details](#Team)
 - [Novelty & Innovation](#novelty--innovation)
 - [Our Solution](#our-solution)
 - [Key Features](#key-features)
@@ -31,7 +32,7 @@ Installation Demo Link : https://drive.google.com/file/d/1zBtwRv0MS0ua3o7c1e-vew
 - [Real-World Impact](#real-world-impact)
 - [Business Model & Sustainability](#business-model--sustainability)
 - [Future Developments](#future-developments)
-- [Team](#Team Details)
+
 
 ## Introduction
 
