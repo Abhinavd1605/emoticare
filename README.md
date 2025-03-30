@@ -1,6 +1,6 @@
 # EmotiCare: AI-Powered Emotional Support Platform
 
-![EmotiCare Logo](public/favicon.svg)
+![EmotiCare Logo](public/favicon.svg) Website link : https://emoti-caree.vercel.app/
 
 ## Table of Contents
 
@@ -94,7 +94,6 @@ EmotiCare creates novel bridges between digital support and traditional care:
 ### 5. Ethical AI Design
 Our approach to emotional AI breaks new ground in responsible development:
 - **Transparent AI capabilities** with clear disclosure of limitations
-- **Privacy-preserving learning** that improves the system without compromising user data
 - **Cultural adaptation framework** for contextually appropriate support across different communities
 
 ## Our Solution
@@ -118,9 +117,6 @@ The platform generates actionable insights about emotional patterns, triggers, a
 
 ### 6. Complementary Care Model
 Rather than replacing professional mental healthcare, EmotiCare is designed to complement and extend traditional services, providing support between therapy sessions, reinforcing therapeutic concepts, and serving as a bridge to professional care when needed.
-
-### 7. Privacy-Centered Design
-All features are built with privacy as a foundational principle, ensuring users can seek emotional support without concerns about confidentiality or data security.
 
 ## Key Features
 
