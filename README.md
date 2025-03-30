@@ -30,6 +30,7 @@ Demo Video Link : https://drive.google.com/file/d/1HeRccK6ASqye9yutkLYzvxT7WTqM0
 - [Real-World Impact](#real-world-impact)
 - [Business Model & Sustainability](#business-model--sustainability)
 - [Future Developments](#future-developments)
+- [Team](#Team)
 
 ## Introduction
 
@@ -504,3 +505,7 @@ Our roadmap for EmotiCare's evolution includes:
 - **Community Contributions**: Curated user-generated content for coping strategies
 - **Research Platform**: Enhanced capabilities for ethical research on digital mental health
 - **Specialized Versions**: Adaptations for specific contexts (healthcare, education, workplace)
+
+## Team
+- D CHAITANYA ABHINAV - CS22B1049
+- K PRANAY SAI - CS22B1054
